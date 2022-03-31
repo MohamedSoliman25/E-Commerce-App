@@ -7,7 +7,8 @@ A demo e-commerce application that allows users to purchase products online and 
 - Firestore Database
 - MVVM
 - Live Data
+- Razor Payment Api
 - Slider Image
 - Material Design
 - Glide
-- Razor Payment Api
+
