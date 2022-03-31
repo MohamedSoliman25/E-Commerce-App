@@ -8,7 +8,7 @@ E-commerce demo application that allows users to purchase products online and is
 - MVVM
 - Live Data
 - Razor Payment Api
-- Slider Image
+- Image Slider
 - Material Design
 - Glide
 
